@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 ___
 ## 🤝🏻  Connect with Me
 
-![VK](https://img.shields.io/badge/VK-%40eshashurin-blue)  ![VK](https://img.shields.io/badge/Instagram-egor__shashurin-DD2A7B)
+![VK](https://img.shields.io/badge/VK-%40eshashurin-blue)  ![VK](https://img.shields.io/badge/Instagram-%40egor__shashurin-DD2A7B)
