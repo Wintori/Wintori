@@ -1,8 +1,12 @@
-### Hi there 👋
+![Screenshot](template.png)
+
+### 👋 Hi there! I`m Egor
+
+___
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wintori)](https://github.com/wintori/github-readme-stats)
 
-![Screenshot](template.png)
+
 
 
 
