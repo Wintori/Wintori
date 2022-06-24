@@ -1,6 +1,7 @@
 ![Screenshot](template.png)
 
-### 👋 Hi there! I`m Egor
+### <img src="https://github.com/Wintori/Wintori/blob/main/HandWave.gif" width="35"/> Hi there! I`m Egor
+
 
 ___
 
