@@ -4,7 +4,7 @@
 
 ___
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wintori)](https://github.com/wintori/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wintori&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wintori&layout=compact&theme=tokyonight)
 
 
 
