@@ -28,7 +28,10 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" **alt="TailwindCSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>
 </div>
-___
+
+---
+
+
 ## 🤝🏻  Connect with Me
 
 [![VK](https://img.shields.io/badge/VK-%40eshashurin-blue)](https://vk.com/eshashurin)  [![Instagram](https://img.shields.io/badge/Instagram-%40egor__shashurin-DD2A7B)](https://instagram.com/egor_shashurin) [![Telegram](https://img.shields.io/badge/Telegram-%40Egor__Shashurin-informational)](https://t.me/Egor_Shashurin)
