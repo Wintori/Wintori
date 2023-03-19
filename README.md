@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 ___
 ## 🤝🏻  Connect with Me
 
-[![VK](https://img.shields.io/badge/VK-%40eshashurin-blue)](https://vk.com/eshashurin)  [![Instagram](https://img.shields.io/badge/Instagram-%40egor__shashurin-DD2A7B)](https://instagram.com/egor_shashurin) [![Telegram](https://img.shields.io/badge/Telegram-%40Egor_Shashurin-cf9)](https://t.me/Egor_Shashurin)
+[![VK](https://img.shields.io/badge/VK-%40eshashurin-blue)](https://vk.com/eshashurin)  [![Instagram](https://img.shields.io/badge/Instagram-%40egor__shashurin-DD2A7B)](https://instagram.com/egor_shashurin) [![Telegram](https://img.shields.io/badge/Telegram-%40Egor_Shashurin-9cf)](https://t.me/Egor_Shashurin)
